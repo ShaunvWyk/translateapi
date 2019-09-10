@@ -1,0 +1,1 @@
+java -jar translator-api.jar

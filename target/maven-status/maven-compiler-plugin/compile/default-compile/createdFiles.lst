@@ -1,0 +1,15 @@
+assignment\translator\translators\PigLatinToEnglishTranslator.class
+assignment\translator\adapters\ITranslate.class
+assignment\translator\TranslatorApplication.class
+assignment\translator\enums\EVowels.class
+assignment\translator\adapters\LanguageAdapter.class
+assignment\translator\domain\Languages.class
+assignment\translator\enums\ESupportedLanguages.class
+assignment\translator\adapters\AbstractLanguageAdapter.class
+assignment\translator\domain\TranslatedDisplayName.class
+assignment\translator\exception\NoTranslatorFOundException.class
+assignment\translator\controllers\LanguageTranslatorAPI.class
+assignment\translator\domain\UntranslatedLanguage.class
+assignment\translator\translators\EnglishToPigLatinTranslator.class
+assignment\translator\domain\TranslatedLanguage.class
+assignment\translator\domain\Language.class

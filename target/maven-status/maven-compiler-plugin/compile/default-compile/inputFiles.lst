@@ -1,0 +1,15 @@
+D:\Coding\Java\Workiva\PTL\Pig-Latin Language Translator\translator\src\main\java\assignment\translator\enums\EVowels.java
+D:\Coding\Java\Workiva\PTL\Pig-Latin Language Translator\translator\src\main\java\assignment\translator\adapters\ITranslate.java
+D:\Coding\Java\Workiva\PTL\Pig-Latin Language Translator\translator\src\main\java\assignment\translator\domain\TranslatedDisplayName.java
+D:\Coding\Java\Workiva\PTL\Pig-Latin Language Translator\translator\src\main\java\assignment\translator\domain\UntranslatedLanguage.java
+D:\Coding\Java\Workiva\PTL\Pig-Latin Language Translator\translator\src\main\java\assignment\translator\translators\EnglishToPigLatinTranslator.java
+D:\Coding\Java\Workiva\PTL\Pig-Latin Language Translator\translator\src\main\java\assignment\translator\controllers\LanguageTranslatorAPI.java
+D:\Coding\Java\Workiva\PTL\Pig-Latin Language Translator\translator\src\main\java\assignment\translator\adapters\LanguageAdapter.java
+D:\Coding\Java\Workiva\PTL\Pig-Latin Language Translator\translator\src\main\java\assignment\translator\enums\ESupportedLanguages.java
+D:\Coding\Java\Workiva\PTL\Pig-Latin Language Translator\translator\src\main\java\assignment\translator\domain\TranslatedLanguage.java
+D:\Coding\Java\Workiva\PTL\Pig-Latin Language Translator\translator\src\main\java\assignment\translator\translators\PigLatinToEnglishTranslator.java
+D:\Coding\Java\Workiva\PTL\Pig-Latin Language Translator\translator\src\main\java\assignment\translator\adapters\AbstractLanguageAdapter.java
+D:\Coding\Java\Workiva\PTL\Pig-Latin Language Translator\translator\src\main\java\assignment\translator\domain\Languages.java
+D:\Coding\Java\Workiva\PTL\Pig-Latin Language Translator\translator\src\main\java\assignment\translator\domain\Language.java
+D:\Coding\Java\Workiva\PTL\Pig-Latin Language Translator\translator\src\main\java\assignment\translator\exception\NoTranslatorFOundException.java
+D:\Coding\Java\Workiva\PTL\Pig-Latin Language Translator\translator\src\main\java\assignment\translator\TranslatorApplication.java
